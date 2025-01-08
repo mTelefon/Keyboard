@@ -23,7 +23,7 @@ app-build-kotlinJVMTarget = "17"
 #versioning
 app-version-appId = "org.fossify.keyboard"
 app-version-versionCode = "3"
-app-version-versionName = "1.1.1a"
+app-version-versionName = "1.1.2b0"
 [libraries]
 #AndroidX
 androidx-autofill = { module = "androidx.autofill:autofill", version.ref = "androidx-autofill" }
