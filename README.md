@@ -1,4 +1,4 @@
-# Fossify Keyboard but new version: 1.1.1a
+# Fossify Keyboard but new version: 1.1.2a0
 
 # Updates:
 
